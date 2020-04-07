@@ -1,0 +1,6 @@
+problem 2.1:
+Question a: lecture 11 section 2
+Not important to get the levels completely the same as the answer
+Question b:
+importance of returning array
+Question c: lecture 11 section 2.1
